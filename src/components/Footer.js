@@ -12,16 +12,7 @@ function Footer() {
       <div className="footer_content">
         <div className="container">
           <p>
-            Copyright © 2021. All rights reserved. <br />
-            Designed &amp; Developed by{' '}
-            <a
-              className="fn__link"
-              href="https://frenify.com/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Frenify
-            </a>
+            Copyright © 2022. All rights reserved. <br />
           </p>
         </div>
       </div>

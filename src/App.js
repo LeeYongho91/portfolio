@@ -21,7 +21,7 @@ function App() {
           <div className="modal_content">
             <div className="modal_in" />
 
-            <div className="fn__nav" data-from="" data-index="">
+            {/* <div className="fn__nav" data-from="" data-index="">
               <a href="#" className="prev">
                 <span className="text">Prev</span>
                 <span className="arrow_wrapper">
@@ -34,7 +34,7 @@ function App() {
                   <span className="arrow" />
                 </span>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

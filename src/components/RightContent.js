@@ -20,27 +20,29 @@ function RightContent() {
 
           <div className="img_holder">
             <img src="img/thumb/square.jpg" alt="" />
-            <div className="abs_img" data-bg-img="img/right.jpg" />
+            <div className="abs_img" data-bg-img="img/photo.jpg" />
           </div>
           <div className="title_holder">
             <h5>Hi There! I am</h5>
             <h3>
               <span className="animated_title">
-                <span className="title_in">Bruce Wilson</span>
+                <span className="title_in">LEE YONG HO</span>
                 <span className="title_in">Web Developer</span>
-                <span className="title_in">Freelancer</span>
-                <span className="title_in">Photographer</span>
               </span>
             </h3>
           </div>
         </div>
         <div className="right_bottom">
-          <a href="#contact">
-            <span className="circle" />
-            <span className="text">
-              I’m available for a freelance job. Hire me
-            </span>
-          </a>
+          <span className="circle" />
+          <span className="text">
+            <a
+              href="https://github.com/LeeYongho91"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub 바로가기
+            </a>
+          </span>
         </div>
       </div>
     </div>
