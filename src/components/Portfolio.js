@@ -196,16 +196,78 @@ function Portfolio() {
                 <div className="modal_item">
                   <a href="#">프로젝트 자세히보기</a>
                   <div className="fn__hidden">
-                    <p className="fn__cat">WEB, MOBILE, ONLINE</p>
-                    <h3 className="fn__title">온라인 쇼핑몰</h3>
-                    <div className="img_holder">
+                    <p className="fn__cat">WEB, ONLINE</p>
+                    <h3 className="fn__title">관리자 사이트</h3>
+                    {/* <div className="img_holder">
                       <img src="img/thumb/square.jpg" alt="" />
                       <div
                         className="abs_img"
                         data-bg-img="img/portfolio/01/main.png"
                       />
+                    </div> */}
+                    <p className="modal_p">
+                      프론트 - HTML CSS JAVASCRIPT REACT <br />
+                      <br />
+                      백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
+                      <br /> <br />
+                      프론트 & 백엔드 기여도 - 100% <br />
+                      <br />
+                      HTML, CSS, MATERIAL UI 사용하여 템플릿 작업 하였습니다.
+                      <br />
+                      <br />
+                      프론트는 REACT를 사용하였으며 REDUX로 상태관리하였습니다.
+                      <br />
+                      <br />
+                      백엔드는 NODE.JS, TYPESCRIPT, EXPRESS, 데이터베이스는
+                      MONGODB 사용하였습니다.
+                    </p>
+                    <hr />
+
+                    <div className="modal-content">
+                      <div className="modal-title">MAIN</div>
+                      <div className="modal-layout">
+                        <div className="modal-card">
+                          <div className="modal-img">
+                            <img src="img/portfolio/02/main.png" alt="" />
+                          </div>
+                        </div>
+                      </div>
                     </div>
-                    ㅇㅇ
+                    <hr />
+                    <div className="modal-content">
+                      <div className="modal-title">HISTORYS</div>
+                      <div className="modal-layout">
+                        <div className="modal-card">
+                          <div className="modal-img">
+                            <img src="img/portfolio/02/01.png" alt="" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <hr />
+                    <div className="modal-content">
+                      <div className="modal-title">UPLOAD</div>
+                      <div className="modal-layout">
+                        <div className="modal-card">
+                          <div className="modal-img">
+                            <img src="img/portfolio/02/02.png" alt="" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <hr />
+
+                    <div className="modal-content">
+                      <div className="modal-title">USERS</div>
+                      <div className="modal-layout">
+                        <div className="modal-card">
+                          <div className="modal-img">
+                            <img src="img/portfolio/02/03.png" alt="" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <hr />
                   </div>
                 </div>
                 <a
