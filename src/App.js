@@ -18,7 +18,10 @@ function App() {
           <a className="closer" href="#">
             <span />
           </a>
-          <div className="modal_content">
+          <div
+            className="modal_content"
+            style={{ backgroundColor: 'rgb(245, 241, 241)' }}
+          >
             <div className="modal_in" />
 
             {/* <div className="fn__nav" data-from="" data-index="">
