@@ -174,7 +174,7 @@ function Portfolio() {
                 </div>
 
                 <a
-                  href="https://polar-wildwood-85222.herokuapp.com/"
+                  href="https://vast-harbor-97791.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -271,7 +271,7 @@ function Portfolio() {
                   </div>
                 </div>
                 <a
-                  href="https://hidden-temple-27410.herokuapp.com/"
+                  href="https://frozen-stream-44606.herokuapp.com//"
                   target="_blank"
                   rel="noreferrer"
                 >
