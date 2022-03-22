@@ -271,7 +271,7 @@ function Portfolio() {
                   </div>
                 </div>
                 <a
-                  href="https://frozen-stream-44606.herokuapp.com//"
+                  href="https://frozen-stream-44606.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
