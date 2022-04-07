@@ -29,10 +29,12 @@ function Portfolio() {
           <div className="portfolio-section modal_items">
             <div className="portfolio-01">
               <div className="portfolio-title">온라인 쇼핑몰</div>
-
-              <div className="main-img ">
-                <img src="img/portfolio/01/main.png" alt="" />
+              <div className="main-img-tag">
+                <div className="main-img ">
+                  <img src="img/portfolio/01/main.png" alt="" />
+                </div>
               </div>
+
               <div className="portfolio-desc">
                 <p>
                   프론트 - HTML CSS JAVASCRIPT REACT <br />
@@ -185,9 +187,12 @@ function Portfolio() {
             </div>
             <div className="portfolio-02">
               <div className="portfolio-title">관리자 사이트</div>
-              <div className="main-img">
-                <img src="img/portfolio/02/main.png" alt="" />
+              <div className="main-img-tag">
+                <div className="main-img">
+                  <img src="img/portfolio/02/main.png" alt="" />
+                </div>
               </div>
+
               <div className="portfolio-desc">
                 <p>
                   프론트 - HTML CSS JAVASCRIPT REACT <br />
