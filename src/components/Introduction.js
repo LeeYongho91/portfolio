@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import React from 'react';
 
 function Introduction() {
@@ -7,12 +8,16 @@ function Introduction() {
         <div className="roww">
           <div className="resumo_fn_main_title">
             <h3 className="subtitle">Introduction</h3>
-            <h3 className="title">Developer</h3>
+            <h3 className="title">Frontend Developer</h3>
             <p className="desc">
-              프론트엔트 개발에 관심이 많으며 <br />
-              주로 JAVASCRIPT, REACT, CSS 에 관심이 많습니다. JAVASCRIPT의
-              생태계를 더 깊이 숙지하려고 <br />
-              계속 노력하고 있는 개발자입니다.
+              안녕하세요. <br />
+              화면을 구현하는걸 좋아하고 <br />
+              사용자 경험을 중시합니다.
+              <br />
+              직관적인것들 그리고 창작에 관심이 많습니다.
+              <br />
+              한계를 정하지 않고 계속 성장하고 싶은 <br />
+              개발자입니다.
             </p>
           </div>
         </div>
