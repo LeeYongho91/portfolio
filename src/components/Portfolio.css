@@ -6,6 +6,7 @@
     flex: 1;
     height: 700px;
     margin-right: 20px;
+    text-align: center;
 }
 .portfolio-02 {
     flex: 1;
@@ -14,9 +15,6 @@
     width: 400px;
     height: 300px;
     border: 1px solid rgb(217, 210, 210);
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .main-img img {
     width: 100%;
