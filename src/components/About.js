@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 /* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 
@@ -68,14 +69,18 @@ function About() {
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>위메이드</h5>
+                          <h5>위메이드맥스</h5>
                           <span>( 2019.10 — 2021.10 )</span>
                         </div>
-                        <h3>게임 서버개발 및 관리자페이지 개발</h3>
+                        <h3>모바일게임 어드민페이지 개발</h3>
                         <p>
-                          - javascript, jquery, vue.js 및 php 기반으로
-                          관리자페이지 작업 <br /> - php, python, mysql, mongodb
-                          기반으로 실시간 게임 api 작업
+                          - 유저관리, 결제관리, 상품관리, 전체적인 페이지ui 개선
+                          등 주요 관리기능 개발
+                          <br />
+                          - 전체적인 ui 개선 및 jquery기반의 페이지를 vue.js로
+                          전환 경험 <br />
+                          - admin 페이지 프론트부분 개발(javascript, vue.js,
+                          jquery) <br />- admin 페이지 백엔드부분 api 개발(php)
                         </p>
                       </div>
                     </li>
