@@ -3,16 +3,19 @@
     justify-content: space-between;
 }
 .portfolio-01 {
-    flex: 1;
-    margin-right: 50px;
+    width: 350px;
     height: 700px;
+    margin-right: 50px;
 }
 .portfolio-02 {
-    flex: 1;
+    width: 350px;
+    margin-right: 80px;
+    width: 350px;
 }
 .main-img {
-    width: 400px;
+    width: 350px;
     height: 300px;
+    border: 1px solid rgb(217, 210, 210);
 }
 .main-img img {
     width: 100%;
