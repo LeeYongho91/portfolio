@@ -43,7 +43,7 @@ function Portfolio() {
                 </p>
 
                 <div className="modal_item">
-                  <a href="#">프로젝트 자세히보기</a>
+                  {/* <a href="#">프로젝트 자세히보기</a> */}
                   <div className="fn__hidden">
                     <p className="fn__cat">WEB, MOBILE, ONLINE</p>
                     <h3 className="fn__title">온라인 쇼핑몰</h3>
@@ -200,7 +200,7 @@ function Portfolio() {
                   백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
                 </p>
                 <div className="modal_item">
-                  <a href="#">프로젝트 자세히보기</a>
+                  {/* <a href="#">프로젝트 자세히보기</a> */}
                   <div className="fn__hidden">
                     <p className="fn__cat">WEB, ONLINE</p>
                     <h3 className="fn__title">관리자 사이트</h3>
