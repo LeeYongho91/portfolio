@@ -43,7 +43,13 @@ function Portfolio() {
                 </p>
 
                 <div className="modal_item">
-                  {/* <a href="#">프로젝트 자세히보기</a> */}
+                  {/* <a
+                    href="https://github.com/LeeYongho91/react_client.git"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    깃허브 가기
+                  </a> */}
                   <div className="fn__hidden">
                     <p className="fn__cat">WEB, MOBILE, ONLINE</p>
                     <h3 className="fn__title">온라인 쇼핑몰</h3>
@@ -183,6 +189,13 @@ function Portfolio() {
                 >
                   웹사이트 바로가기
                 </a>
+                <a
+                  href="https://github.com/LeeYongho91/react-client.git"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  깃허브 가기
+                </a>
               </div>
             </div>
             <div className="portfolio-02">
@@ -198,9 +211,16 @@ function Portfolio() {
                   프론트 - HTML CSS JAVASCRIPT REACT <br />
                   <br />
                   백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
+                  <br />
                 </p>
                 <div className="modal_item">
-                  {/* <a href="#">프로젝트 자세히보기</a> */}
+                  {/* <a
+                    href="https://github.com/LeeYongho91/react_admin_project.git"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    깃허브 가기
+                  </a> */}
                   <div className="fn__hidden">
                     <p className="fn__cat">WEB, ONLINE</p>
                     <h3 className="fn__title">관리자 사이트</h3>
@@ -282,6 +302,13 @@ function Portfolio() {
                   rel="noreferrer"
                 >
                   웹사이트 바로가기
+                </a>
+                <a
+                  href="https://github.com/LeeYongho91/react_admin_project.git"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  깃허브 가기
                 </a>
               </div>
             </div>
