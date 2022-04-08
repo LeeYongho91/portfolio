@@ -37,7 +37,7 @@ function Portfolio() {
 
               <div className="portfolio-desc">
                 <p>
-                  프론트 - HTML CSS JAVASCRIPT REACT <br />
+                  프론트 - HTML CSS JAVASCRIPT REACT(REDUX) <br />
                   <br />
                   백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
                 </p>
@@ -208,7 +208,8 @@ function Portfolio() {
 
               <div className="portfolio-desc">
                 <p>
-                  프론트 - HTML CSS JAVASCRIPT REACT <br />
+                  프론트 - HTML CSS JAVASCRIPT REACT(REDUX)
+                  <br />
                   <br />
                   백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
                   <br />
@@ -232,7 +233,8 @@ function Portfolio() {
                       />
                     </div> */}
                     <p className="modal_p">
-                      프론트 - HTML CSS JAVASCRIPT REACT <br />
+                      프론트 - HTML CSS JAVASCRIPT REACT
+                      <br />
                       <br />
                       백엔드 - NODE.JS EXPRESS TYPESCRIPT MONGODB
                       <br /> <br />
